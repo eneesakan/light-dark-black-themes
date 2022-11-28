@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  	<meta charset="UTF-8">
+  	<title>Light / Dark / Black Theme</title>
+  	<link rel="preconnect" href="https://fonts.googleapis.com">
+  	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+	<link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+
+<div class="menu">
+
+	<div class="menu-header">
+		<h2 class="menu-header-title">Themes</h2>
+		<div class="theme-switcher">
+			<input type="radio" id="light-theme" name="themes" checked />
+			<label for="light-theme">
+				<span>
+					<i data-feather="sun"></i>Light
+				</span>
+			</label>
+			<input type="radio" id="dark-theme" name="themes" />
+			<label for="dark-theme">
+				<span>
+					<i data-feather="moon"></i>Dark
+				</span>
+			</label>
+			<input type="radio" id="black-theme" name="themes" />
+			<label for="black-theme">
+				<span>
+					<i data-feather="star"></i>Black
+				</span>
+			</label>
+			<span class="slider"></span>
+		</div>
+	</div>
+	<div class="menu-body">
+		<a href="#"><i data-feather="user"></i>Profile</a>
+		<a href="#"><i data-feather="message-square"></i>About Me</a>
+		<a href="#"><i data-feather="settings"></i>Settings</a>
+		<a href="#"><i data-feather="log-out"></i>Log out</a>
+	</div>
+
+</div>
+
+  <script src='https://unpkg.com/feather-icons'>
+  </script><script  src="./script.js"></script>
+
+</body>
+</html>
