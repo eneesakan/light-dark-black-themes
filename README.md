@@ -22,8 +22,8 @@ https://user-images.githubusercontent.com/84860191/206587161-aa946a22-74e0-42fc-
 
 <h3 align="center">A passionate Front-End Developer from Turkey</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/eneesakan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eneesakan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/eneesakan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eneesakan" height="30" width="40" /></a>
 <a href="https://instagram.com/eneesakan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eneesakan" height="30" width="40" /></a>
