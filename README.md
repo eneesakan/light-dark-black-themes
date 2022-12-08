@@ -13,23 +13,12 @@ Projede günümüzün popüler özelliklerinden olan karanlık mod ve siyah mod 
 https://user-images.githubusercontent.com/84860191/206587161-aa946a22-74e0-42fc-81b2-1874db11a082.mp4
 
 # Ekran Görüntüleri
-<img src="https://user-images.githubusercontent.com/84860191/206587208-1bf46188-66a6-4b2a-a85c-afec7eed48ab.png" width=33%/>
-<img src="https://user-images.githubusercontent.com/84860191/206587254-da96d6aa-80d6-4c4b-8920-bb2dad4f2849.png" width=33% aling="right"/>
-<img src="https://user-images.githubusercontent.com/84860191/206587270-708a6c82-ccc2-437f-a5d0-851995783e08.png" width=33%/>
-
-![Ekran Görüntüsü (57)](https://user-images.githubusercontent.com/84860191/206587254-da96d6aa-80d6-4c4b-8920-bb2dad4f2849.png)
-![Ekran Görüntüsü (58)](https://user-images.githubusercontent.com/84860191/206587270-708a6c82-ccc2-437f-a5d0-851995783e08.png)
-
-
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/84860191/206587208-1bf46188-66a6-4b2a-a85c-afec7eed48ab.png" width="100" />
-  <img src="https://user-images.githubusercontent.com/84860191/206587254-da96d6aa-80d6-4c4b-8920-bb2dad4f2849.png" width="100" /> 
-  <img src="https://user-images.githubusercontent.com/84860191/206587270-708a6c82-ccc2-437f-a5d0-851995783e08.png" width="100" />
+  <img src="https://user-images.githubusercontent.com/84860191/206587208-1bf46188-66a6-4b2a-a85c-afec7eed48ab.png" width="300" />
+  <img src="https://user-images.githubusercontent.com/84860191/206587254-da96d6aa-80d6-4c4b-8920-bb2dad4f2849.png" width="300" /> 
+  <img src="https://user-images.githubusercontent.com/84860191/206587270-708a6c82-ccc2-437f-a5d0-851995783e08.png" width="300" />
 </p>
-
-
-
 
 <h3 align="center">A passionate Front-End Developer from Turkey</h3>
 
