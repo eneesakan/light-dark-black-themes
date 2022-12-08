@@ -30,4 +30,4 @@ https://user-images.githubusercontent.com/84860191/206587161-aa946a22-74e0-42fc-
 </p>
 
 <h3 align="center">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/eneesakan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/eneesakan" /></a></p>
+<p><a href="https://www.buymeacoffee.com/eneesakan" align="center"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/eneesakan" /></a></p>
