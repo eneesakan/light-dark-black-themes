@@ -15,9 +15,9 @@ https://user-images.githubusercontent.com/84860191/206587161-aa946a22-74e0-42fc-
 # Ekran Görüntüleri
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/84860191/206587208-1bf46188-66a6-4b2a-a85c-afec7eed48ab.png" width="320" />
-  <img src="https://user-images.githubusercontent.com/84860191/206587254-da96d6aa-80d6-4c4b-8920-bb2dad4f2849.png" width="320" /> 
-  <img src="https://user-images.githubusercontent.com/84860191/206587270-708a6c82-ccc2-437f-a5d0-851995783e08.png" width="320" />
+  <img src="https://user-images.githubusercontent.com/84860191/206587208-1bf46188-66a6-4b2a-a85c-afec7eed48ab.png" width="335" />
+  <img src="https://user-images.githubusercontent.com/84860191/206587254-da96d6aa-80d6-4c4b-8920-bb2dad4f2849.png" width="335" /> 
+  <img src="https://user-images.githubusercontent.com/84860191/206587270-708a6c82-ccc2-437f-a5d0-851995783e08.png" width="335" />
 </p>
 
 <h3 align="center">A passionate Front-End Developer from Turkey</h3>
