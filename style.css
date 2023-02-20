@@ -157,3 +157,42 @@ body{
 .menu-body a:hover{
   background-color: var(--c-bg-secondary);
 }
+
+.ensakn{
+  text-align: center;
+  position: absolute;
+  cursor: pointer;
+  font-weight: 600;
+  bottom: 60px;
+  left: 0;
+  right: 0;
+  font-size: 1.1em;
+  transition: .25s;
+  color: #222128;
+}
+
+.ensakn:hover{
+  color: #000001;
+}
+
+.ensakn2{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  text-align: center;
+  padding: 1.4em;
+  font-size: 1.1em;
+  transition: .25s;
+}
+
+.ensakn2 a{
+  text-decoration: none;
+  color: #222128;
+  transition: .25s;
+  padding: 5px;
+}
+
+.ensakn2 a:hover{
+  color: #000001;
+}
